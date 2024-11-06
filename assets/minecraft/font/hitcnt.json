@@ -1,0 +1,33 @@
+{
+    "providers":[
+        {
+            "type":"bitmap",
+            "file":"minecraft:font/number/hitcnt.png",
+            "ascent":-16,
+            "height":10,
+            "chars":[
+                "\u0030\u0031\u0032\u0033\u0034\u0035\u0036\u0037\u0038\u0039"
+            ]
+        },
+        {
+            "type":"bitmap",
+            "file":"minecraft:font/number/slash.png",
+            "ascent":-16,
+            "height":10,
+            "chars":[
+                "\/"
+            ]
+        },
+        {
+            "type":"bitmap",
+            "file":"minecraft:font/logo/stat.png",
+            "ascent":-16,
+            "height":9,
+            "chars":[
+                "\uE022\uE023\uE024\uE025",
+                "\uE026\uE027\uE028\uE029",
+                "\uE030\uE031\uE032\uE033"
+            ]
+        }
+    ]
+}
