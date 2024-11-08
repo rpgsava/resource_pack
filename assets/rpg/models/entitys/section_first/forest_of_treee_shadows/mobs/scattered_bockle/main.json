@@ -135,7 +135,12 @@
 			}
 		}
 	],
-	"display": {},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0],
+			"translation": [0, -36, 0]
+		}
+	},
 	"groups": [
 		{
 			"name": "wood",
