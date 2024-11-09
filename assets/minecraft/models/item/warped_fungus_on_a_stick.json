@@ -9,6 +9,12 @@
                 "custom_model_data":2000
             },
             "model":"rpg:entitys/section_first/forest_of_treee_shadows/mobs/scattered_bockle/main"
+        },
+        {
+            "predicate":{
+                "custom_model_data":3000
+            },
+            "model":"rpg:entitys/section_first/forest_of_treee_shadows/mobs/rain_sprash/main_body"
         }
     ]
 }

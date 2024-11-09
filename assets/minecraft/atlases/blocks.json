@@ -26,6 +26,11 @@
             "prefix": "entity/conduit/"
         },
         {
+            "type": "directory",
+            "source": "entitys",
+            "prefix": "entitys/"
+        },
+        {
             "type": "single",
             "resource": "entity/bell/bell_body"
         },
