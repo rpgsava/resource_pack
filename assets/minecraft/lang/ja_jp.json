@@ -39,7 +39,7 @@
                 "RPG.Enemy.Boss.MiraculousSwordDance.Skill.WindLawSword.Detail" :       "ボスの周囲に剣を召喚し、周囲のプレイヤーにダメージを与える\nその後剣を各方向に飛ばし、着地点を中心とした広範囲のプレイヤーにダメージを与える",
                 "RPG.Enemy.Boss.MiraculousSwordDance.Skill.SwordDance.Name" :           "剣舞",
                 "RPG.Enemy.Boss.MiraculousSwordDance.Skill.SwordDance.Detail" :         "ボスがフィールド外に移動し行動する\n剣を6本召喚し、直線上のプレイヤーに対して致命的なダメージを与える\n攻撃中は避けることしかできない",
-                "RPG.Section.Second":                                                   "RPG.Section.Second",
+        "RPG.Section.Second":                                                           "RPG.Section.Second",
         "RPG.Section.Third":                                                            "RPG.Section.Third",
         "RPG.Section.Forth":                                                            "RPG.Section.Forth",
     "RPG.Item.OakSword":                                                                "オークの剣",
